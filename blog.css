@@ -1,0 +1,38 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+
+    text-align: center;
+    color: #72114a;
+}
+
+
+
+
+.perant {
+    color:white;
+    text-align: center;
+    width: 100%;
+
+
+}
+
+.child {
+    background-color: rgba(197, 35, 103, 0.623);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:10px;
+    justify-content: space-between;
+    margin: 7px;
+    padding: 40px;
+    box-shadow: 5px 4px red;
+
+
+}
+.card{
+    background-color: rgb(99, 38, 66);
+    padding: 30px;
+}
